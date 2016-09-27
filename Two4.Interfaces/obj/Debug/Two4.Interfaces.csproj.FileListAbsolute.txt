@@ -1,0 +1,10 @@
+C:\sandbox\Tests\Two4\Two4.Practical\Two4.Interfaces\bin\Debug\Two4.Interfaces.dll
+C:\sandbox\Tests\Two4\Two4.Practical\Two4.Interfaces\bin\Debug\Two4.Interfaces.pdb
+C:\sandbox\Tests\Two4\Two4.Practical\Two4.Interfaces\obj\Debug\Two4.Interfaces.csprojResolveAssemblyReference.cache
+C:\sandbox\Tests\Two4\Two4.Practical\Two4.Interfaces\obj\Debug\Two4.Interfaces.dll
+C:\sandbox\Tests\Two4\Two4.Practical\Two4.Interfaces\obj\Debug\Two4.Interfaces.pdb
+C:\Sandbox\Practical\Two4.Practical\Two4.Interfaces\bin\Debug\Two4.Interfaces.dll
+C:\Sandbox\Practical\Two4.Practical\Two4.Interfaces\bin\Debug\Two4.Interfaces.pdb
+C:\Sandbox\Practical\Two4.Practical\Two4.Interfaces\obj\Debug\Two4.Interfaces.csprojResolveAssemblyReference.cache
+C:\Sandbox\Practical\Two4.Practical\Two4.Interfaces\obj\Debug\Two4.Interfaces.dll
+C:\Sandbox\Practical\Two4.Practical\Two4.Interfaces\obj\Debug\Two4.Interfaces.pdb
